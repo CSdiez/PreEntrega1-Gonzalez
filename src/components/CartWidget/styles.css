@@ -1,0 +1,11 @@
+.car-icon{
+    width: 70px;
+    height: 70px;
+    margin-right: 60px;
+    cursor: pointer;
+    border-radius: 20%;
+    padding: 15px;
+}
+.car-icon:hover{
+    background-color: #0d6efd;
+}
